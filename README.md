@@ -27,7 +27,7 @@
 
 共调整、新增文字字形）  460个
 
-更新完成度：IIIIIIIIIIIIIIIIIIIIII I I I   92%
+更新完成度：IIIIIIIIIIIIIIIIIIIIIIII I I   95%
  
 ![全圆1](https://user-images.githubusercontent.com/87366329/224276881-89af05d0-eb48-4ec1-ac61-982ed8188eb0.png)
 ![全圆2](https://user-images.githubusercontent.com/87366329/224276918-42890856-26ff-4dbf-ada7-2d93d21dffd3.png)
@@ -51,7 +51,7 @@
 
 共調整、新增文字字形）  225个
 
-更新完成度：IIIIIIIIIII I I I I I I I I   30%
+更新完成度：IIIIIIIIIIIIIIIIIIIII I I   90%
 
 ![半圆1](https://user-images.githubusercontent.com/87366329/224276902-ec134be0-fccc-4f7c-b76d-fab71e6dc4e0.png)
 ![半圆2](https://user-images.githubusercontent.com/87366329/224276897-af3a0c9f-6e1f-41b0-82a1-a95ea554fe65.png)
